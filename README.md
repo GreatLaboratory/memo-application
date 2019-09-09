@@ -1,6 +1,6 @@
 # memo-application
 
-> A Vue.js project
+> webpack-simple template 기반의 localStorage 저장 메모 어플리케이션
 
 ## Build Setup
 
