@@ -5,6 +5,7 @@ const memoAPICore = axios.create({
   baseURL: "http://localhost:8000/api/memos"
 });
 
+//ㄹㅇㄹㅇㄹ
 export function fetchMemos({ commit }) {
   memoAPICore.get("/")
     .then(res=> {
